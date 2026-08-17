@@ -1,5 +1,7 @@
 # PlutoSky P1
 Custom Hardware Files for the PlutoSky P1
+https://opensourcesdrlab.com/products/plutosky-p1
+![alt](https://github.com/OpenSourceSDRLab/PlutoSky-P1/blob/main/images/PlutoSky%20P1.png)
 
 The **PlutoSky P1** version is based on the official **ADALM-PLUTO**. The core components of PlutoSky P1 are all the same as ADALM-PLUTO, and it is fully compatible with the official [analogdevicesinc/plutosdr-fw ](https://github.com/analogdevicesinc/plutosdr-fw) firmware.
 
